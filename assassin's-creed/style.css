@@ -10,8 +10,9 @@ body {
     max-width: 850px;
     min-width: 500px;
     margin: auto;
-    background-color: rgba(43, 42, 42, 0.644);
     color: black;
+    background-image: url(imagens/wallpaper004.jpg);
+    background-size: 2400px 3000px;
 }
 
 img {
