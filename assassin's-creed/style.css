@@ -54,9 +54,10 @@ p {
 
 table {
     height: 100px;
-    width: 630px;
+    width: 210px;
     border-collapse: collapse;
     font-family: var(--secundario);
+    text-align: center;
 }
 
 td {
